@@ -1,21 +1,7 @@
-<<<<<<< HEAD
-# foodresipes
+Flutter application.
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Flutter-UI-Food_recipe
 just simple flutter ui
->>>>>>> 78c0bd0134fb59d0e474e4e8517f17cf6ea92962
+
+![Screenshot_1589712010](https://user-images.githubusercontent.com/51218670/82142414-0a10b100-97f1-11ea-822b-3b3e08931fe2.png)
+
